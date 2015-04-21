@@ -1,5 +1,6 @@
 <?php
-function wp_bongabdo_date_post($the_date, $d, $post) {
+function wp_bongabdo_date_post($d) {
+	global $post;
 	$wp_bongabdo = wp_bongabdo(strtotime( $post->post_date ));
 	return $wp_bongabdo[0] . ' ' . $wp_bongabdo[1] . ' ' . $wp_bongabdo[2];
 }
@@ -82,4 +83,3 @@ function geturls($string) {
 	preg_match_all($regex, $string, $matches);
 	return ($matches[0]);
 }
-?>

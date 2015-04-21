@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 function wpbd_options_page() {
 	?>
     <div class="wrap">
@@ -48,4 +48,3 @@ function register_wpbd_settings() {
 
 add_action('admin_menu', 'wpbd_admin');
 add_action('admin_init', 'register_wpbd_settings');
-?>

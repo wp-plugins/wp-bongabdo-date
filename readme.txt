@@ -2,9 +2,9 @@
 Contributors: zakirdaq
 Donate link: http://facebook.com/ZakirDakua
 Tags: Bangla, Bengali, Bangla Date, Bongabdo, Bongabdo Date
-Requires at least: 3.0.1
-Tested up to: 4.2
-Stable tag: 4.3
+Requires at least: 3.1.1
+Tested up to: 4.1.1
+Stable tag: 13.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
