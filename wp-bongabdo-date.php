@@ -2,7 +2,7 @@
 	/*
 	Plugin Name: WP Bongabdo Date
 	Plugin URI: http://webnitpark.com/
-	Description: Converts Date to Bongabdo Date. Once you activate the plugin, automatically date and time will be changed to Bongabdo date for all posts and comments. You can show it in both english and bangla language.
+	Description: Converts post/page and comments date from Gregorian Date to Bongabdo Date. It is based on Dr. Muhammed Shahidullah's Bangla calendar approved by People's Republic of Bangladesh. Once you activate the plugin, automatically date and time will be changed to Bongabdo date for all posts and comments. You can show it in both English and Bangla language.
 	Author: Zakir Hossain
 	Version: 13.0
 	Author URI: http://facebook.com/ZakirDakua
